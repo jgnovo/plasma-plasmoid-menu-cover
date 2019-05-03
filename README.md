@@ -1,2 +1,2 @@
-# plasma-plasmoid-menu-cover
+# Plasma menu cover
 A full screen menu for KDE
